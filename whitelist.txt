@@ -4,7 +4,5 @@
     "rblx": "shadowshark0752"
   },
   {
-    "Discord": "1374518202977226752",
-    "rblx": "Not_an9e15"
   }
 ]
